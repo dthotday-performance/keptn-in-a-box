@@ -6,7 +6,7 @@
 # ==================================================
 #      ----- Components Versions -----             #
 # ==================================================
-KIAB_RELEASE="release-0.7.3"
+KIAB_RELEASE="release-0.7.2"
 ISTIO_VERSION=1.5.1
 CERTMANAGER_VERSION=0.14.0
 # https://github.com/keptn/keptn
