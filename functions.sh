@@ -128,7 +128,7 @@ installationBundleDemo() {
 
   keptndeploy_homepage=true
   keptndemo_cartsload=false
-  keptndemo_unleash=true
+  keptndemo_unleash=false
   keptndemo_cartsonboard=false
   # use for order application
   keptndemo_catalogonboard=true
